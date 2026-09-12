@@ -1,0 +1,6 @@
+{
+  "name": "Ezy Quiz Portal",
+  "description": "Interactive timed multiple-choice quiz and skill assessment portal with categories, live countdown timer, and comprehensive performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
